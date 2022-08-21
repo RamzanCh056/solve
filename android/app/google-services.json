@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "689842570367",
+    "project_id": "solve-af245",
+    "storage_bucket": "solve-af245.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:689842570367:android:14b5a0f9bfcafac6a36b4a",
+        "android_client_info": {
+          "package_name": "com.example.solve"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "689842570367-p7ija1stsgnjp1qkacb5g5nv8m94ao3a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAffpxGU1EpnW3hoLbl12KA433CjniYywc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "689842570367-p7ija1stsgnjp1qkacb5g5nv8m94ao3a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
